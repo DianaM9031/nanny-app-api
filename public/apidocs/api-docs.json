@@ -1,0 +1,9 @@
+{
+  "apiVersion": "1.0",
+  "swaggerVersion": "1.2",
+  "basePath": "https://nanny-app-api-caro9031.c9users.io",
+  "apis": [
+
+  ],
+  "authorizations": null
+}
